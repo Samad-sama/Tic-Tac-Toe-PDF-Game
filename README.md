@@ -38,21 +38,17 @@ The game is built using:
 - Embedded JavaScript for game logic
 - No external libraries required
 
-## File Structure
-
 ## Requirements
 - Python 3.x
 - Adobe Acrobat Reader
 - JavaScript enabled in PDF reader
 
 ## Important Notes
-- Game only works in Adobe Acrobat Reader
 - Make sure JavaScript is enabled in your PDF reader
 - Buttons cannot be edited once clicked
 - Game state is maintained until reset
 
 ## Known Limitations
-- Only works in Adobe Acrobat Reader
 - Requires JavaScript support
 - No game history tracking
 - No customizable player names
