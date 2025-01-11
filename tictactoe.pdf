@@ -1,0 +1,469 @@
+
+%PDF-1.6
+
+% Root
+1 0 obj
+<<
+  /AcroForm <<
+    /Fields [ 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R ]
+  >>
+  /Pages <<
+    /Count 1
+    /Kids [
+      16 0 R
+    ]
+    /Type /Pages
+  >>
+  /OpenAction 17 0 R
+  /Type /Catalog
+>>
+endobj
+
+%% Annots Page 1
+21 0 obj
+[
+  50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R
+]
+endobj
+
+
+50 0 obj
+<<
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [1 1 1]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        200 600 440 650
+    ]
+    /Subtype /Widget
+    /T (title)
+    /V (TIC TAC TOE GAME)
+    /Type /Annot
+    /Ff 1
+>>
+endobj
+
+51 0 obj
+<<
+    /A <<
+        /JS (makeMove(0, 0);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        200 500 280 580
+    ]
+    /Subtype /Widget
+    /T (btn_0_0)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+52 0 obj
+<<
+    /A <<
+        /JS (makeMove(0, 1);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        280 500 360 580
+    ]
+    /Subtype /Widget
+    /T (btn_0_1)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+53 0 obj
+<<
+    /A <<
+        /JS (makeMove(0, 2);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        360 500 440 580
+    ]
+    /Subtype /Widget
+    /T (btn_0_2)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+54 0 obj
+<<
+    /A <<
+        /JS (makeMove(1, 0);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        200 420 280 500
+    ]
+    /Subtype /Widget
+    /T (btn_1_0)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+55 0 obj
+<<
+    /A <<
+        /JS (makeMove(1, 1);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        280 420 360 500
+    ]
+    /Subtype /Widget
+    /T (btn_1_1)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+56 0 obj
+<<
+    /A <<
+        /JS (makeMove(1, 2);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        360 420 440 500
+    ]
+    /Subtype /Widget
+    /T (btn_1_2)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+57 0 obj
+<<
+    /A <<
+        /JS (makeMove(2, 0);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        200 340 280 420
+    ]
+    /Subtype /Widget
+    /T (btn_2_0)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+58 0 obj
+<<
+    /A <<
+        /JS (makeMove(2, 1);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        280 340 360 420
+    ]
+    /Subtype /Widget
+    /T (btn_2_1)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+59 0 obj
+<<
+    /A <<
+        /JS (makeMove(2, 2);)
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [0.9 0.9 0.9]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        360 340 440 420
+    ]
+    /Subtype /Widget
+    /T (btn_2_2)
+    /Type /Annot
+    /Ff 0
+>>
+endobj
+
+60 0 obj
+<<
+    /F 4
+    /FT /Tx
+    /MK <<
+        /BG [1 1 1]
+    >>
+    /Q 1
+    /P 16 0 R
+    /Rect [
+        200 250 440 280
+    ]
+    /Subtype /Widget
+    /T (status)
+    /Type /Annot
+    /Ff 1
+>>
+endobj
+
+61 0 obj
+<<
+    /A <<
+        /JS (resetGame())
+        /S /JavaScript
+    >>
+    /F 4
+    /FT /Btn
+    /MK <<
+        /BG [0.8 0.8 0.8]
+        /CA (RESET)
+    >>
+    /P 16 0 R
+    /Rect [
+        280 200 360 230
+    ]
+    /Subtype /Widget
+    /T (reset)
+    /Type /Annot
+    /Ff 65536
+>>
+endobj
+
+
+%% Page 1
+16 0 obj
+<<
+  /Annots 21 0 R
+  /Contents << >>
+  /CropBox [
+    0.0
+    0.0
+    612.0
+    792.0
+  ]
+  /MediaBox [
+    0.0
+    0.0
+    612.0
+    792.0
+  ]
+  /Parent 7 0 R
+  /Resources <<
+  >>
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+17 0 obj
+<<
+  /JS 42 0 R
+  /S /JavaScript
+>>
+endobj
+
+42 0 obj
+<< >>
+stream
+var currentPlayer = 'X';
+var gameBoard = [['','',''],['','',''],['','','']];
+var gameOver = false;
+
+function updateButton(btn, symbol) {
+    try {
+        btn.value = symbol;
+        btn.textSize = 30;
+        btn.textColor = color.black;
+        btn.fillColor = ["RGB", 0.9, 0.9, 0.9];
+        btn.readonly = true;
+    } catch(e) {
+        app.alert("Error updating button: " + e);
+    }
+}
+
+function makeMove(row, col) {
+    try {
+        if (gameOver) {
+            app.alert("Game is over! Click Reset to play again.");
+            return;
+        }
+
+        var btn = this.getField(`btn_${row}_${col}`);
+        if (btn.value !== "") {
+            return;
+        }
+
+        // Update the game board and button
+        gameBoard[row][col] = currentPlayer;
+        updateButton(btn, currentPlayer);
+
+        // Check for win
+        if (checkWin(currentPlayer)) {
+            this.getField('status').value = currentPlayer + " WINS!";
+            this.getField('status').textColor = color.green;
+            gameOver = true;
+            return;
+        }
+
+        // Check for draw
+        if (isDraw()) {
+            this.getField('status').value = "EVEN";
+            this.getField('status').textColor = color.red;
+            gameOver = true;
+            return;
+        }
+
+        // Switch players
+        currentPlayer = (currentPlayer === 'X') ? 'O' : 'X';
+        this.getField('status').value = "Current Player: " + currentPlayer;
+
+    } catch(e) {
+        app.alert("Error in makeMove: " + e);
+    }
+}
+
+function checkWin(player) {
+    // Rows
+    for (var i = 0; i < 3; i++) {
+        if (gameBoard[i][0] === player && 
+            gameBoard[i][1] === player && 
+            gameBoard[i][2] === player) return true;
+    }
+    
+    // Columns
+    for (var i = 0; i < 3; i++) {
+        if (gameBoard[0][i] === player && 
+            gameBoard[1][i] === player && 
+            gameBoard[2][i] === player) return true;
+    }
+    
+    // Diagonals
+    if (gameBoard[0][0] === player && 
+        gameBoard[1][1] === player && 
+        gameBoard[2][2] === player) return true;
+        
+    if (gameBoard[0][2] === player && 
+        gameBoard[1][1] === player && 
+        gameBoard[2][0] === player) return true;
+    
+    return false;
+}
+
+function isDraw() {
+    for (var i = 0; i < 3; i++) {
+        for (var j = 0; j < 3; j++) {
+            if (gameBoard[i][j] === '') return false;
+        }
+    }
+    return true;
+}
+
+function resetGame() {
+    try {
+        currentPlayer = 'X';
+        gameBoard = [['','',''],['','',''],['','','']];
+        gameOver = false;
+
+        // Reset all buttons
+        for (var i = 0; i < 3; i++) {
+            for (var j = 0; j < 3; j++) {
+                var btn = this.getField(`btn_${i}_${j}`);
+                btn.value = '';
+                btn.readonly = false;
+                btn.fillColor = ["RGB", 0.9, 0.9, 0.9];
+            }
+        }
+
+        // Reset status
+        var status = this.getField('status');
+        status.value = "Current Player: X";
+        status.textColor = color.black;
+    } catch(e) {
+        app.alert("Error in resetGame: " + e);
+    }
+}
+
+// Initialize the game
+try {
+    resetGame();
+} catch(e) {
+    app.alert("Error initializing game: " + e);
+}
+
+app.execMenuItem("FitPage");
+endstream
+endobj
+
+trailer
+<<
+  /Root 1 0 R
+>>
+
+%%EOF
