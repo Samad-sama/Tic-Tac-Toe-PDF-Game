@@ -1,7 +1,7 @@
 # Interactive Tic-Tac-Toe PDF Game
 
 ## Description
-This project generates an interactive Tic-Tac-Toe game as a PDF file. The game features a clean interface with clickable buttons and automatic game state management, all playable directly within Adobe Acrobat Reader.
+This project generates an interactive Tic-Tac-Toe game as a PDF file. The game features a clean interface with clickable buttons and automatic game state management.
 
 ## Features
 - Interactive 3x3 game board
